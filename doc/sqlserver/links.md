@@ -16,3 +16,5 @@
 - [パフォーマンスを語るために歴史を語ろう (1/3)：真・Dr. K's SQL Serverチューニング研修（1） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1005/10/news093.html)
   
 - [ZOZOTOWNで最大級のトラフィックを記録する福袋発売イベントで実施した負荷対策 - ZOZO Technologies TECH BLOG](https://techblog.zozo.com/entry/sqlserver-tuning-luckybag)
+  
+- [SQL Server性能問題の3大要因 システムリソース/クエリ/待機を検証(pdf)](https://www.unisys.co.jp/solution/tec/atlasbase/s33drt000005ei89-att/dbm_1007_gui.pdf)
