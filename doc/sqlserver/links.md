@@ -18,3 +18,11 @@
 - [ZOZOTOWNで最大級のトラフィックを記録する福袋発売イベントで実施した負荷対策 - ZOZO Technologies TECH BLOG](https://techblog.zozo.com/entry/sqlserver-tuning-luckybag)
   
 - [SQL Server性能問題の3大要因 システムリソース/クエリ/待機を検証(pdf)](https://www.unisys.co.jp/solution/tec/atlasbase/s33drt000005ei89-att/dbm_1007_gui.pdf)
+
+- [allocation units | Simon Learning SQL Server](https://simonlearningsqlserver.wordpress.com/tag/allocation-units/)
+- [The Allocation Unit - sqlity.net](https://sqlity.net/en/2287/allocation-unit/)
+- [SQL Server – Understanding Allocation Units – In Row Data, LOB Data & Row Overflow Data | DataGinger.com](https://dataginger.com/2013/10/14/sql-server-understanding-allocation-units-in-row-data-lob-data-row-overflow-data/)
+- [SQL Server / 64KB Allocation Unit Size | SQL Server Blog](https://blog.sqlserveronline.com/2017/12/08/sql-server-64kb-allocation-unit-size/)
+
+- [ディスクの空き容量を確認するクエリー - 便利なT-SQL＆クエリー集 - SQL Server 入門](https://sql55.com/query/check-disk-space.php)
+- [SQL Server の APPLY オペレータ - T-SQL 入門 - SQL Server 入門](https://sql55.com/t-sql/sql-server-apply-operator.php)

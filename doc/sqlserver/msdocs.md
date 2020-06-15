@@ -15,9 +15,18 @@
 - sys.database_files([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-database-files-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-database-files-transact-sql?view=sql-server-ver15))
 - sys.partitions([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-partitions-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-partitions-transact-sql?view=sql-server-ver15))
 - sys.internal_tables([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-internal-tables-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-internal-tables-transact-sql?view=sql-server-ver15))
+- sys.allocation_units([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-allocation-units-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-allocation-units-transact-sql?view=sql-server-ver15))
 
 ## システムストアド
 
 - sp_spaceused([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-stored-procedures/sp-spaceused-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-spaceused-transact-sql?view=sql-server-ver15))
 - sp_helptext([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-stored-procedures/sp-helptext-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-helptext-transact-sql?view=sql-server-ver15))
+
+## OS情報取得
+
+- sys.dm_os_volume_stats([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-dynamic-management-views/sys-dm-os-volume-stats-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-os-volume-stats-transact-sql?view=sql-server-ver15))
+
+## アーキテクチャ
+
+- ページとエクステントのアーキテクチャガイド([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/pages-and-extents-architecture-guide?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide?view=sql-server-ver15))
 
