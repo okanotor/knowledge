@@ -26,3 +26,9 @@
 
 - [ディスクの空き容量を確認するクエリー - 便利なT-SQL＆クエリー集 - SQL Server 入門](https://sql55.com/query/check-disk-space.php)
 - [SQL Server の APPLY オペレータ - T-SQL 入門 - SQL Server 入門](https://sql55.com/t-sql/sql-server-apply-operator.php)
+
+- [Getting more details with an enhanced xp_fixeddrives for SQL Server](https://www.mssqltips.com/sqlservertip/3037/getting-more-details-with-an-enhanced-xpfixeddrives-for-sql-server/)
+- [undocumented なものを見つけたので、調べてみる - その4 ( xp_fixeddrives ) - - 都内で働くSEの技術的なひとりごと / Technical soliloquy of System Engineer working in Tokyo](https://ryuchan.hatenablog.com/entry/2014/12/07/081138)
+- [Using xp_fixeddrives to Monitor Free Space — DatabaseJournal.com](https://www.databasejournal.com/features/mssql/article.php/3080501/Using-xpfixeddrives-to-Monitor-Free-Space.htm)
+- [An alternative to xp_fixeddrives - Tomas Lind](http://tomaslind.net/2014/01/28/alternative-xp_fixeddrives/)
+- [SQL Server Architecture Overview](https://www.mssqltips.com/sqlservertutorial/9220/sql-server-architecture-overview/)
