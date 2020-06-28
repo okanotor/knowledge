@@ -16,6 +16,7 @@
 - sys.partitions([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-partitions-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-partitions-transact-sql?view=sql-server-ver15))
 - sys.internal_tables([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-internal-tables-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-internal-tables-transact-sql?view=sql-server-ver15))
 - sys.allocation_units([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-catalog-views/sys-allocation-units-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-allocation-units-transact-sql?view=sql-server-ver15))
+- sys.dm_db_partition_stats([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/system-dynamic-management-views/sys-dm-db-partition-stats-transact-sql?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-partition-stats-transact-sql?view=sql-server-ver15))
 
 ## システムストアド
 
