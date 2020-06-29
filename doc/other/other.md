@@ -4,3 +4,5 @@
 - [登 大遊 様【ソフトイーサ株式会社代表取締役、CYBERDYNE株式会社顧問】 | 筑波大学基金 | ご支援のお願い | FUTURESHIP CREWS' MESSAGE](https://futureship.sec.tsukuba.ac.jp/prospectus/futureship-crew/0308.html)
 
 - [Happy Hacking Keyboard | 背面スイッチの説明 | PFU](https://www.pfu.fujitsu.com/hhkeyboard/leaflet/hhkb_backview.html)
+
+- [コーディングフォーマット | COBOLプログラミング入門](https://tallercolibri.com/archives/53)
