@@ -6,3 +6,5 @@
 - [Happy Hacking Keyboard | 背面スイッチの説明 | PFU](https://www.pfu.fujitsu.com/hhkeyboard/leaflet/hhkb_backview.html)
 
 - [コーディングフォーマット | COBOLプログラミング入門](https://tallercolibri.com/archives/53)
+
+- [WBS（Work Breakdown Structure）によるプロジェクト管理](http://www.aerith.net/design/wbs-j.html)
