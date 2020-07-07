@@ -5,3 +5,6 @@
 - [Power Query M formula language reference - PowerQuery M | Microsoft Docs](https://docs.microsoft.com/en-us/powerquery-m/)
 - [Power Query クロス結合(Cross Join) - Qiita](https://qiita.com/hrkasno/items/2b928d2e4713720cf6ce)
 - [Cross Join with Power Query - Excelerator BI](https://exceleratorbi.com.au/cross-join-with-power-query/)
+
+- [Power BI 王子の Tips 集 - Qiita](https://qiita.com/yugoes1021/items/07d5e0637a6444f2b043)
+- [Power BI 王子のレポート集 - Qiita](https://qiita.com/yugoes1021/items/e1ab631d0b6942508844)
