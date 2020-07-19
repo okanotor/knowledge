@@ -1,0 +1,11 @@
+# リンク集(OSS)
+
+- [Marp： Markdown Presentation Ecosystem](https://marp.app/)
+- [Embulk](https://www.embulk.org/)
+- [Fluentd | Open Source Data Collector | Unified Logging Layer](https://www.fluentd.org/)
+- [PostgreSQL： The world's most advanced open source database](https://www.postgresql.org/)
+- [OpenJDK](https://openjdk.java.net/)
+- [Welcome to Python.org](https://www.python.org/)
+- [オブジェクト指向スクリプト言語 Ruby](https://www.ruby-lang.org/ja/)
+- [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+- [The Official YAML Web Site](https://yaml.org/)

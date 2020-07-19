@@ -8,3 +8,7 @@
 - [コーディングフォーマット | COBOLプログラミング入門](https://tallercolibri.com/archives/53)
 
 - [WBS（Work Breakdown Structure）によるプロジェクト管理](http://www.aerith.net/design/wbs-j.html)
+
+- [openBD | 書誌情報・書影を自由に](https://openbd.jp/)
+
+- [株式会社フナモコ 岐阜県下呂市の家具製造メーカーです。](https://www.funamoco.com/)
