@@ -19,3 +19,8 @@
 
 - [Tkinter 入門： 12. Tk.Text の使い方](https://www.shido.info/py/tkinter12.html)
 - [Tkinter、Textウィジェットの使い方 - Narito Blog](https://narito.ninja/blog/detail/100/)
+
+- [Deepmerge： merging nested data structures — deepmerge 0.1 documentation](https://deepmerge.readthedocs.io/en/latest/)
+- [deepmerge · PyPI](https://pypi.org/project/deepmerge/)
+
+- [VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する - Qiita](https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb)
