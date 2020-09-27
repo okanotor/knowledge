@@ -12,3 +12,7 @@
 - [openBD | 書誌情報・書影を自由に](https://openbd.jp/)
 
 - [株式会社フナモコ 岐阜県下呂市の家具製造メーカーです。](https://www.funamoco.com/)
+
+- [linguist/languages.yml | GitHub](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+
+- [Google Style Guides](https://google.github.io/styleguide/)
