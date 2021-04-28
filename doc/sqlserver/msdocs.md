@@ -31,3 +31,7 @@
 
 - ページとエクステントのアーキテクチャガイド([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/pages-and-extents-architecture-guide?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide?view=sql-server-ver15))
 
+## データベース
+
+- データベース識別子([日](https://docs.microsoft.com/ja-jp/sql/relational-databases/databases/database-identifiers?view=sql-server-ver15))([英](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-identifiers?view=sql-server-ver15))
+
