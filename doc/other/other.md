@@ -16,3 +16,5 @@
 - [linguist/languages.yml | GitHub](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 - [Google Style Guides](https://google.github.io/styleguide/)
+
+- [EVM計算でプロジェクトの健康度を計る](https://timekrei.tenda.co.jp/column/calculate_evm/)
